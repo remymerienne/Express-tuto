@@ -16,8 +16,9 @@ Notes et essais sur la technologie Express.js
 5. Voir *handlebars* ou *EJS* pour la création de site dynamique.
    [https://handlebarsjs.com/](https://handlebarsjs.com/)
 
-23 minutes de la vidéo - MiddleWare  
-[tuto Express](https://www.youtube.com/watch?v=ku2lVBn8nSI&list=WL&index=13)
+Tuto Espress basic (french)  
+[Vidéo - tuto Express](https://www.youtube.com/watch?v=ku2lVBn8nSI&list=WL&index=13)
 
-17 minutes  
-[tuto spa without React](https://www.youtube.com/watch?v=6BozpmSjk-Y)
+Tuto SPA + server Express (english)  
+[Vidéo - tuto spa without React - part 1](https://www.youtube.com/watch?v=6BozpmSjk-Y)  
+[Vidéo - tuto spa without React - part 2](https://www.youtube.com/watch?v=OstALBk-jTc)
