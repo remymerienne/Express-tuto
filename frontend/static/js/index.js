@@ -56,7 +56,7 @@ const router = async () => {
 window.addEventListener('popstate', router);
 
 // *** #3 .Exécution du routeur quand le DOM est chargé !!!!!!! ***
-document.addEventListener('DOMContentLoaded', ()=>{
+document.addEventListener('DOMContentLoaded', () => {
 
   document.body.addEventListener('click', (e) => {
 
